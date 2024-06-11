@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove Twitch Sign Up Footer
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/thaph03
 // @version      1.0
 // @description  delete sign up pop up on twitch
 // @author       Thai Pham
